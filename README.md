@@ -6,13 +6,20 @@
 
 # DIAGRAMS:
 
-![Screenshot 2025-05-22 103556](https://github.com/user-attachments/assets/1634a82c-30d3-43fb-a050-b1097669eadd)
-![Uploading ActivityDiagram MUBARAK EXP1.png…]()
-![ClassDiagram1 EXP1](https://github.com/user-attachments/assets/599c801c-0eea-4a71-a622-035b752272d7)
-![Uploading UseCaseDiagram1 EXP1.png…]()
-![Uploading Screenshot 2025-05-22 102036.png…]()
-![Uploading ClassDiagram1 EXP1.png…]()
+![CommunicationDiagram1 EXP1](https://github.com/user-attachments/assets/850c228a-94a8-4b7d-9e83-adc07437f2bc)
+
+![ActivityDiagram MUBARAK EXP1](https://github.com/user-attachments/assets/729cdfb5-39b4-40cd-9d65-ecad05ed6b5c)
+
+![ClassDiagram1 EXP1](https://github.com/user-attachments/assets/bf444e78-a996-4073-b672-2f579540322a)
+
+![ActivityDiagram1 EXP1](https://github.com/user-attachments/assets/b3c17390-87d5-4c5d-b9d1-5d2d6ece40ac)
+
+![UseCaseDiagram1 EXP1](https://github.com/user-attachments/assets/1506b5aa-3d2e-48bd-9d84-37a856c8b491)
+
+
+
 
 
 
 # RESULT:
+
