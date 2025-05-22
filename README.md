@@ -12,11 +12,11 @@
 
 ![ClassDiagram1 EXP1](https://github.com/user-attachments/assets/bf444e78-a996-4073-b672-2f579540322a)
 
-![ActivityDiagram1 EXP1](https://github.com/user-attachments/assets/b3c17390-87d5-4c5d-b9d1-5d2d6ece40ac)
-
 ![UseCaseDiagram1 EXP1](https://github.com/user-attachments/assets/1506b5aa-3d2e-48bd-9d84-37a856c8b491)
 
+![Screenshot 2025-05-22 102036](https://github.com/user-attachments/assets/73c54741-defe-4b45-aba5-b6ff37ba2429)
 
+![Screenshot 2025-05-22 103556](https://github.com/user-attachments/assets/4a782b85-8dfe-4304-ad9e-42ea54173101)
 
 
 
